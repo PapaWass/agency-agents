@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "name": "RainCity Website",
+      "path": "../AI trade research platform/RainCity - AI Development/website"
+    },
+    {
+      "name": "RainCity Ops (Scaffold)",
+      "path": "../AI trade research platform/RainCity - AI Development/website/raincity-ops"
+    },
+    {
+      "name": "RainCity Buildbook",
+      "path": "RainCity-Site-Intelligence-Buildbook"
+    },
+    {
+      "name": "Agency Agents",
+      "path": "agency-agents"
+    }
+  ],
+  "settings": {
+    "window.title": "Command Center — ${activeEditorShort}"
+  }
+}
